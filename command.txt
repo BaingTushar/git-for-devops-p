@@ -15,3 +15,6 @@ dnslsamsa.m.,sadm
   553  ls
   554  history
 
+add new masg in command file
+
+
