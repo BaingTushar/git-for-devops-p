@@ -1,1 +1,17 @@
 dnslsamsa.m.,sadm
+
+541  git status
+  542  git remote add origin https://github.com/BaingTushar/git-for-devops-p.git
+  543  git remote -v
+  544  git orign push master
+  545  git origin push master
+  546  git push origin master
+  547  history
+  548  git status
+  549  git clone
+  550  git clone https://github.com/BaingTushar/git-for-devops-p.git
+  551  ls
+  552  cd git-for-devops-p/
+  553  ls
+  554  history
+
